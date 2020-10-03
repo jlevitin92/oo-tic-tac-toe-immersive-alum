@@ -67,7 +67,10 @@ def turn
 end
 
 def won?
-  binding.pry
+  # binding.pry
+  WIN_COMBINATIONS.each do |combo|
+    binding.pry
+  end
 end
 
 
