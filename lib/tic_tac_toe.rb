@@ -69,7 +69,7 @@ end
 def won?
   # binding.pry
   WIN_COMBINATIONS.each do |combo|
-    binding.pry
+    # binding.pry
   end
 end
 
